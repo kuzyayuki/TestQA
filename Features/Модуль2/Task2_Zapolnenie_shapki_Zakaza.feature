@@ -2,6 +2,7 @@
 
 @tree
 @ExportScenarios
+@IgnoreOnCIMainBuild
 
 Функционал: Экспортный сценарий заполнения шапки документа Заказ 
 
