@@ -2,6 +2,7 @@
 
 @tree
 @ExportScenarios
+@IgnoreOnCIMainBuild
 
 Функционал: загрузка тестовых данных для документа Заказ  
 
